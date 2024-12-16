@@ -1,6 +1,6 @@
 
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Blazor
 
 ✨ Most and/or recently used languages:
 
@@ -29,6 +29,7 @@ Languages and tools I've studied:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### Framework
