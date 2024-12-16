@@ -42,9 +42,7 @@ Languages and tools I've studied:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </details>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallariina&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallariina&layout=compact&theme=radical)
 <!--
 **sallariina/sallariina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
